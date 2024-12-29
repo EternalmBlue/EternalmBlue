@@ -2,8 +2,8 @@
 
 <p align="center">
     <a href="http://eternalblue.fun" target="_blank">
-        <img src="http://eternalblue.fun/logo.jpg" alt="Avatar" width="150" 
-             style="border-radius: 50%; border: 3px solid #00ffcc; transition: transform 0.3s;">
+    <img src="http://eternalblue.fun/logo.jpg" alt="Avatar" width="150" 
+         style="border-radius: 50%; border: 5px solid #00ffcc; transition: transform 0.3s;">
     </a>
 </p>
 
