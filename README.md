@@ -30,9 +30,7 @@
 
 <h2 style="color: #00ffcc;">联系我</h2>
 <ul>
-    <li>📫 [发送电子邮件](mailto:your-email@example.com)</li>
-    <li>🐦 [Twitter](https://twitter.com/你的微博或推特)</li>
-    <li>💼 [LinkedIn](https://linkedin.com/in/你的linkedin)</li>
+    <li>📫 [e-mail](mailto:eternal_blue@foxmail.com)</li>
 </ul>
 
 ---
