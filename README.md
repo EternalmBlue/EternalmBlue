@@ -7,8 +7,7 @@
     </a>
 </p>
 
-<h2 align="center" style="color: #00ffcc;">关于我</h2>
-<p align="center" style="color: #ffffff;">你好！我是一名热爱科技和未来主义的开发者。期待与你交流！</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ---
 
