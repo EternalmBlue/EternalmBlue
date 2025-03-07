@@ -30,7 +30,7 @@
 
 <h2 style="color: #00ffcc;">联系我</h2>
 <ul>
-    <li>📫 [e-mail]([mailto:]https://eternal_blue@foxmail.com)</li>
+    <li>📫 [e-mail](https://eternal_blue@foxmail.com)</li>
 </ul>
 
 ---
