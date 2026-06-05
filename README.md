@@ -78,9 +78,12 @@
 
 <!--START_SECTION:waka-->
 
-```text
-WakaTime telemetry is ready.
-Add WAKATIME_API_KEY in repository Actions secrets to unlock live coding stats.
+```txt
+From: 28 May 2026 - To: 04 June 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
