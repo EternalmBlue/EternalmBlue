@@ -5,6 +5,10 @@ on:
     - cron: "20 18 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-readme-generators
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -15,6 +19,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -33,5 +39,13 @@ jobs:
             echo "No snake changes to commit."
           else
             git commit -m "Generate contribution snake"
-            git push
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              echo "Push failed on attempt ${attempt}; retrying after fetching latest main."
+              sleep 5
+            done
+            exit 1
           fi
