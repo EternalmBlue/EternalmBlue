@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=900&color=7DF9FF&center=true&vCenter=true&width=920&lines=Initializing+Cosmic+Build+System...;Training+AI+Agents+under+starlight;Deploying+Full-Stack+Nebula;Exploring+Endless+Destiny;Java+%2B+Python+%2B+Kubernetes+%2B+LLMs" alt="Typing animation for EternalBlue" />
+  <img src="./assets/cosmic-signal.svg" alt="Animated cosmic signal for EternalBlue" width="100%" />
 </p>
 
 <p align="center">
@@ -45,6 +45,9 @@
 
 <p align="center">
   <img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EternalmBlue&theme=tokyonight" alt="EternalBlue GitHub stats" />
+</p>
+
+<p align="center">
   <img height="178" src="https://streak-stats.demolab.com?user=EternalmBlue&hide_border=true&background=0D1117&ring=7DF9FF&fire=FF4FD8&currStreakLabel=D7BFFF&sideLabels=7DF9FF&dates=8BA4FF&stroke=1B2755&currStreakNum=FFE68A&sideNums=FFE68A" alt="EternalBlue GitHub streak" />
 </p>
 
@@ -52,11 +55,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EternalmBlue&custom_title=EternalBlue%20Cosmic%20Activity&bg_color=0D1117&color=D7BFFF&line=7DF9FF&point=FF4FD8&area=true&area_color=7DF9FF&hide_border=true" alt="EternalBlue GitHub activity graph" />
 </p>
 
-<h3 align="center">METRICS CONSTELLATION</h3>
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="EternalBlue GitHub metrics dashboard" width="100%" />
-</p>
+<details>
+  <summary align="center"><strong>METRICS CONSTELLATION</strong></summary>
+  <p align="center">
+    <img src="./github-metrics.svg" alt="EternalBlue GitHub metrics dashboard" width="460" />
+  </p>
+</details>
 
 <h3 align="center">3D CONTRIBUTION ORBIT</h3>
 
