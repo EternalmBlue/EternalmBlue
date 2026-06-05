@@ -1,0 +1,44 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">EternalBlue contribution snake placeholder</title>
+  <desc id="desc">Initial cosmic contribution snake panel. GitHub Actions will replace this file with a live contribution snake SVG.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#180A2E"/>
+    </linearGradient>
+    <linearGradient id="line" x1="140" y1="114" x2="1030" y2="114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DF9FF"/>
+      <stop offset="0.55" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#FF4FD8"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes dash {
+        to { stroke-dashoffset: -260; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: .45; }
+        50% { opacity: 1; }
+      }
+      .path { stroke-dasharray: 16 18; animation: dash 8s linear infinite; }
+      .dot { animation: pulse 2.8s ease-in-out infinite; }
+      .label { font-family: "Segoe UI", Arial, sans-serif; font-weight: 700; letter-spacing: 0; }
+    </style>
+  </defs>
+  <rect width="1200" height="220" rx="24" fill="url(#bg)"/>
+  <path d="M80 176C188 84 285 75 380 124C496 183 580 173 704 92C841 3 953 54 1120 145" stroke="url(#line)" stroke-width="6" stroke-linecap="round" class="path" filter="url(#glow)"/>
+  <circle class="dot" cx="220" cy="98" r="8" fill="#7DF9FF"/>
+  <circle class="dot" cx="402" cy="132" r="8" fill="#D7BFFF"/>
+  <circle class="dot" cx="633" cy="131" r="8" fill="#7C3AED"/>
+  <circle class="dot" cx="862" cy="37" r="8" fill="#FF4FD8"/>
+  <circle class="dot" cx="1056" cy="111" r="8" fill="#FFE68A"/>
+  <text x="600" y="96" text-anchor="middle" class="label" font-size="30" fill="#E0FBFF">CONTRIBUTION SNAKE INITIALIZING</text>
+  <text x="600" y="134" text-anchor="middle" class="label" font-size="17" fill="#D7BFFF">GitHub Actions will replace this with live cosmic contribution motion.</text>
+</svg>

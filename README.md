@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=900&color=7DF9FF&center=true&vCenter=true&width=920&lines=Exploring+Endless+Destiny;AI+Developer+%2F+Full-Stack+Developer;Code+the+nebula%2C+shape+the+future;Building+with+Java+%2B+Python+%2B+LLMs" alt="Typing animation for EternalBlue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=900&color=7DF9FF&center=true&vCenter=true&width=920&lines=Initializing+Cosmic+Build+System...;Training+AI+Agents+under+starlight;Deploying+Full-Stack+Nebula;Exploring+Endless+Destiny;Java+%2B+Python+%2B+Kubernetes+%2B+LLMs" alt="Typing animation for EternalBlue" />
 </p>
 
 <p align="center">
@@ -35,6 +35,12 @@
   <img src="https://img.shields.io/badge/-AI%2FLLM-0B1026?style=for-the-badge&logo=openai&logoColor=FF4FD8" alt="AI and LLM" />
 </p>
 
+<h3 align="center">COSMIC ACHIEVEMENTS</h3>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=EternalmBlue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="EternalBlue GitHub trophies" />
+</p>
+
 <h3 align="center">STAR CHART</h3>
 
 <p align="center">
@@ -45,6 +51,39 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EternalmBlue&custom_title=EternalBlue%20Cosmic%20Activity&bg_color=0D1117&color=D7BFFF&line=7DF9FF&point=FF4FD8&area=true&area_color=7DF9FF&hide_border=true" alt="EternalBlue GitHub activity graph" />
 </p>
+
+<h3 align="center">METRICS CONSTELLATION</h3>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="EternalBlue GitHub metrics dashboard" width="100%" />
+</p>
+
+<h3 align="center">3D CONTRIBUTION ORBIT</h3>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="EternalBlue 3D contribution calendar" width="100%" />
+</p>
+
+<h3 align="center">CONTRIBUTION SNAKE</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img src="./assets/github-snake.svg" alt="EternalBlue contribution snake animation" width="100%" />
+  </picture>
+</p>
+
+<h3 align="center">CODING FREQUENCY</h3>
+
+<!--START_SECTION:waka-->
+
+```text
+WakaTime telemetry is ready.
+Add WAKATIME_API_KEY in repository Actions secrets to unlock live coding stats.
+```
+
+<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7DF9FF,48:7C3AED,100:FF4FD8&section=footer&text=Exploring%20Endless%20Destiny&fontColor=E0FBFF&fontSize=24&animation=twinkling&fontAlignY=72" alt="Exploring Endless Destiny footer wave" />

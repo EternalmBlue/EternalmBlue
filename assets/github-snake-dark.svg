@@ -1,0 +1,35 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">EternalBlue dark contribution snake placeholder</title>
+  <desc id="desc">Initial dark cosmic contribution snake panel. GitHub Actions will replace this file with a live contribution snake SVG.</desc>
+  <defs>
+    <radialGradient id="glowBg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 100) scale(720 210)">
+      <stop stop-color="#7C3AED" stop-opacity=".38"/>
+      <stop offset=".52" stop-color="#0B1026" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#020617"/>
+    </radialGradient>
+    <linearGradient id="snake" x1="100" y1="170" x2="1100" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DF9FF"/>
+      <stop offset=".5" stop-color="#D7BFFF"/>
+      <stop offset="1" stop-color="#FF4FD8"/>
+    </linearGradient>
+    <filter id="neon" x="-20%" y="-70%" width="140%" height="240%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes move {
+        to { stroke-dashoffset: -360; }
+      }
+      .snake { stroke-dasharray: 24 16; animation: move 9s linear infinite; }
+      .label { font-family: "Segoe UI", Arial, sans-serif; font-weight: 700; letter-spacing: 0; }
+    </style>
+  </defs>
+  <rect width="1200" height="220" rx="24" fill="#020617"/>
+  <rect width="1200" height="220" rx="24" fill="url(#glowBg)"/>
+  <path d="M84 150C200 68 312 65 432 132C563 205 682 150 766 85C880 0 1000 43 1122 128" stroke="url(#snake)" stroke-width="8" stroke-linecap="round" class="snake" filter="url(#neon)"/>
+  <text x="600" y="94" text-anchor="middle" class="label" font-size="31" fill="#E0FBFF">LIVE CONTRIBUTION SNAKE</text>
+  <text x="600" y="136" text-anchor="middle" class="label" font-size="17" fill="#D7BFFF">Awaiting the first scheduled generation orbit.</text>
+</svg>

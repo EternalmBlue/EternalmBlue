@@ -1,0 +1,32 @@
+name: Update WakaTime README
+
+on:
+  schedule:
+    - cron: "20 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  waka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    steps:
+      - name: Skip when WakaTime is not configured
+        if: ${{ env.WAKATIME_API_KEY == '' }}
+        run: echo "WAKATIME_API_KEY is not configured; skipping WakaTime README update."
+
+      - name: Update WakaTime stats
+        if: ${{ env.WAKATIME_API_KEY != '' }}
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          LANG_COUNT: 8
+          COMMIT_MESSAGE: "Update WakaTime coding stats"
