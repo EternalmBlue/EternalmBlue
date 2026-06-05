@@ -1,11 +1,51 @@
-#### Software:
+<p align="center">
+  <img src="./assets/hero.svg" alt="EternalBlue cosmic cyber nebula banner" width="100%" />
+</p>
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=900&color=7DF9FF&center=true&vCenter=true&width=920&lines=Exploring+Endless+Destiny;AI+Developer+%2F+Full-Stack+Developer;Code+the+nebula%2C+shape+the+future;Building+with+Java+%2B+Python+%2B+LLMs" alt="Typing animation for EternalBlue" />
+</p>
 
+<p align="center">
+  <a href="mailto:eternal_blue@foxmail.com"><img src="https://img.shields.io/badge/Foxmail-eternal__blue%40foxmail.com-7DF9FF?style=for-the-badge&logo=maildotru&logoColor=7DF9FF&labelColor=0B1026" alt="Email eternal_blue@foxmail.com" /></a>
+  <a href="mailto:m04y08x20@gmail.com"><img src="https://img.shields.io/badge/Gmail-m04y08x20%40gmail.com-FF4FD8?style=for-the-badge&logo=gmail&logoColor=FF4FD8&labelColor=0B1026" alt="Email m04y08x20@gmail.com" /></a>
+  <img src="https://komarev.com/ghpvc/?username=EternalmBlue&label=PROFILE%20VIEWS&style=for-the-badge&color=7DF9FF&labelColor=0B1026" alt="Profile views" />
+</p>
 
+<h3 align="center">COSMIC SIGNAL</h3>
+
+<p align="center">
+  AI开发 / 全栈开发<br />
+  在代码、智能体与星云之间，探索无尽命运的轨道。
+</p>
+
+<h3 align="center">TECH UNIVERSE</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-0B1026?style=for-the-badge&logo=openjdk&logoColor=7DF9FF" alt="Java" />
+  <img src="https://img.shields.io/badge/-Python-0B1026?style=for-the-badge&logo=python&logoColor=FFE68A" alt="Python" />
+  <img src="https://img.shields.io/badge/-Spring-0B1026?style=for-the-badge&logo=spring&logoColor=7DF9FF" alt="Spring" />
+  <img src="https://img.shields.io/badge/-Docker-0B1026?style=for-the-badge&logo=docker&logoColor=7DF9FF" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Redis-0B1026?style=for-the-badge&logo=redis&logoColor=FF4FD8" alt="Redis" />
+  <img src="https://img.shields.io/badge/-MySQL-0B1026?style=for-the-badge&logo=mysql&logoColor=D7BFFF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Vue-0B1026?style=for-the-badge&logo=vuedotjs&logoColor=7DF9FF" alt="Vue" />
+  <img src="https://img.shields.io/badge/-React-0B1026?style=for-the-badge&logo=react&logoColor=7DF9FF" alt="React" />
+  <img src="https://img.shields.io/badge/-Linux-0B1026?style=for-the-badge&logo=linux&logoColor=FFE68A" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Kubernetes-0B1026?style=for-the-badge&logo=kubernetes&logoColor=D7BFFF" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-AI%2FLLM-0B1026?style=for-the-badge&logo=openai&logoColor=FF4FD8" alt="AI and LLM" />
+</p>
+
+<h3 align="center">STAR CHART</h3>
+
+<p align="center">
+  <img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EternalmBlue&theme=tokyonight" alt="EternalBlue GitHub stats" />
+  <img height="178" src="https://streak-stats.demolab.com?user=EternalmBlue&hide_border=true&background=0D1117&ring=7DF9FF&fire=FF4FD8&currStreakLabel=D7BFFF&sideLabels=7DF9FF&dates=8BA4FF&stroke=1B2755&currStreakNum=FFE68A&sideNums=FFE68A" alt="EternalBlue GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EternalmBlue&custom_title=EternalBlue%20Cosmic%20Activity&bg_color=0D1117&color=D7BFFF&line=7DF9FF&point=FF4FD8&area=true&area_color=7DF9FF&hide_border=true" alt="EternalBlue GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7DF9FF,48:7C3AED,100:FF4FD8&section=footer&text=Exploring%20Endless%20Destiny&fontColor=E0FBFF&fontSize=24&animation=twinkling&fontAlignY=72" alt="Exploring Endless Destiny footer wave" />
+</p>
