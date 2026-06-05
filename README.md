@@ -55,8 +55,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EternalmBlue&custom_title=EternalBlue%20Cosmic%20Activity&bg_color=0D1117&color=D7BFFF&line=7DF9FF&point=FF4FD8&area=true&area_color=7DF9FF&hide_border=true" alt="EternalBlue GitHub activity graph" />
 </p>
 
+<h3 align="center">METRICS CONSTELLATION</h3>
+
 <details>
-  <summary align="center"><strong>METRICS CONSTELLATION</strong></summary>
+  <summary><strong>Open live GitHub metrics dashboard</strong></summary>
   <p align="center">
     <img src="./github-metrics.svg" alt="EternalBlue GitHub metrics dashboard" width="460" />
   </p>
