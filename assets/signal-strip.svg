@@ -1,5 +1,5 @@
 <svg width="920" height="86" viewBox="0 0 920 86" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">EternalBlue cosmic signal strip</title>
+  <title id="title">EternalBlue signal strip</title>
   <desc id="desc">Animated sci-fi signal strip showing EternalBlue development themes.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="920" y2="86" gradientUnits="userSpaceOnUse">
@@ -50,9 +50,9 @@
   <rect class="scan" x="0" y="0" width="86" height="86" fill="url(#edge)" opacity=".1"/>
   <text x="54" y="36" class="label" fill="#7DF9FF">TRANSMISSION</text>
   <g filter="url(#glow)">
-    <text x="460" y="54" text-anchor="middle" class="line t1" fill="#E0FBFF">Initializing Cosmic Build System...</text>
-    <text x="460" y="54" text-anchor="middle" class="line t2" fill="#D7BFFF">Training AI Agents under Starlight</text>
-    <text x="460" y="54" text-anchor="middle" class="line t3" fill="#7DF9FF">Deploying Full-Stack Nebula</text>
+    <text x="460" y="54" text-anchor="middle" class="line t1" fill="#E0FBFF">Initializing Build System...</text>
+    <text x="460" y="54" text-anchor="middle" class="line t2" fill="#D7BFFF">Training AI Agents with Precision</text>
+    <text x="460" y="54" text-anchor="middle" class="line t3" fill="#7DF9FF">Deploying Full-Stack Systems</text>
     <text x="460" y="54" text-anchor="middle" class="line t4" fill="#FF4FD8">Exploring Endless Destiny</text>
     <text x="460" y="54" text-anchor="middle" class="line t5" fill="#FFE68A">Java + Python + Kubernetes + LLMs</text>
   </g>

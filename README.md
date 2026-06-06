@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="EternalBlue cosmic cyber nebula banner" width="100%" />
+  <img src="./assets/hero.svg" alt="EternalBlue neon interface banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/cosmic-signal.svg" alt="Animated cosmic signal for EternalBlue" width="100%" />
+  <img src="./assets/signal-strip.svg" alt="Animated signal strip for EternalBlue" width="100%" />
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
   <img src="https://komarev.com/ghpvc/?username=EternalmBlue&label=PROFILE%20VIEWS&style=for-the-badge&color=7DF9FF&labelColor=0B1026" alt="Profile views" />
 </p>
 
-<h3 align="center">COSMIC SIGNAL</h3>
+<h3 align="center">SIGNAL</h3>
 
 <p align="center">
   AI开发 / 全栈开发<br />
-  在代码、智能体与星云之间，探索无尽命运的轨道。
+  在代码、智能体与产品之间，打磨稳定、清晰、可持续的系统。
 </p>
 
-<h3 align="center">TECH UNIVERSE</h3>
+<h3 align="center">TECH STACK</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-0B1026?style=for-the-badge&logo=openjdk&logoColor=7DF9FF" alt="Java" />
@@ -35,13 +35,13 @@
   <img src="https://img.shields.io/badge/-AI%2FLLM-0B1026?style=for-the-badge&logo=openai&logoColor=FF4FD8" alt="AI and LLM" />
 </p>
 
-<h3 align="center">COSMIC ACHIEVEMENTS</h3>
+<h3 align="center">ACHIEVEMENTS</h3>
 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=EternalmBlue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="EternalBlue GitHub trophies" />
 </p>
 
-<h3 align="center">STAR CHART</h3>
+<h3 align="center">ACTIVITY</h3>
 
 <p align="center">
   <img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EternalmBlue&theme=tokyonight" alt="EternalBlue GitHub stats" />
@@ -52,10 +52,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EternalmBlue&custom_title=EternalBlue%20Cosmic%20Activity&bg_color=0D1117&color=D7BFFF&line=7DF9FF&point=FF4FD8&area=true&area_color=7DF9FF&hide_border=true" alt="EternalBlue GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EternalmBlue&custom_title=EternalBlue%20Activity%20Graph&bg_color=0D1117&color=D7BFFF&line=7DF9FF&point=FF4FD8&area=true&area_color=7DF9FF&hide_border=true" alt="EternalBlue GitHub activity graph" />
 </p>
 
-<h3 align="center">METRICS CONSTELLATION</h3>
+<h3 align="center">METRICS DASHBOARD</h3>
 
 <details>
   <summary><strong>Open live GitHub metrics dashboard</strong></summary>
@@ -64,7 +64,7 @@
   </p>
 </details>
 
-<h3 align="center">3D CONTRIBUTION ORBIT</h3>
+<h3 align="center">3D CONTRIBUTION MAP</h3>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="EternalBlue 3D contribution calendar" width="100%" />
