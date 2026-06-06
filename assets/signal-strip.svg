@@ -29,19 +29,11 @@
         0%, 44% { opacity: 1; }
         45%, 100% { opacity: .15; }
       }
-      @keyframes rotateText {
-        0%, 18% { opacity: 1; }
-        23%, 100% { opacity: 0; }
-      }
       .scan { animation: scan 5.8s ease-in-out infinite; }
       .cursor { animation: blink 1s steps(1) infinite; }
       .line { font-family: "Segoe UI", Arial, sans-serif; font-size: 24px; font-weight: 800; letter-spacing: 0; }
+      .subline { font-family: "Segoe UI", Arial, sans-serif; font-size: 11px; font-weight: 800; letter-spacing: 0; }
       .label { font-family: "Segoe UI", Arial, sans-serif; font-size: 12px; font-weight: 800; letter-spacing: 0; }
-      .t1 { animation: rotateText 15s linear infinite; }
-      .t2 { animation: rotateText 15s linear infinite; animation-delay: 3s; opacity: 0; }
-      .t3 { animation: rotateText 15s linear infinite; animation-delay: 6s; opacity: 0; }
-      .t4 { animation: rotateText 15s linear infinite; animation-delay: 9s; opacity: 0; }
-      .t5 { animation: rotateText 15s linear infinite; animation-delay: 12s; opacity: 0; }
     </style>
   </defs>
   <rect x="1" y="1" width="918" height="84" rx="18" fill="url(#panel)" stroke="url(#edge)" stroke-opacity=".72" stroke-width="2"/>
@@ -50,11 +42,8 @@
   <rect class="scan" x="0" y="0" width="86" height="86" fill="url(#edge)" opacity=".1"/>
   <text x="54" y="36" class="label" fill="#7DF9FF">TRANSMISSION</text>
   <g filter="url(#glow)">
-    <text x="460" y="54" text-anchor="middle" class="line t1" fill="#E0FBFF">Initializing Build System...</text>
-    <text x="460" y="54" text-anchor="middle" class="line t2" fill="#D7BFFF">Training AI Agents with Precision</text>
-    <text x="460" y="54" text-anchor="middle" class="line t3" fill="#7DF9FF">Deploying Full-Stack Systems</text>
-    <text x="460" y="54" text-anchor="middle" class="line t4" fill="#FF4FD8">Exploring Endless Destiny</text>
-    <text x="460" y="54" text-anchor="middle" class="line t5" fill="#FFE68A">Java + Python + Kubernetes + LLMs</text>
+    <text x="460" y="43" text-anchor="middle" class="line" fill="#E0FBFF">Building Systems with Clarity</text>
+    <text x="460" y="60" text-anchor="middle" class="subline" fill="#D7BFFF">AI DEVELOPMENT / FULL-STACK ENGINEERING / PRODUCT-READY DELIVERY</text>
   </g>
   <rect class="cursor" x="758" y="34" width="10" height="26" rx="2" fill="#7DF9FF"/>
 </svg>
