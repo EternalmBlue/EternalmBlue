@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="EternalBlue neon interface banner" width="100%" />
+  <img src="./assets/interface-hero.svg" alt="EternalBlue neon interface banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
 <p align="center">
   <a href="mailto:eternal_blue@foxmail.com"><img src="https://img.shields.io/badge/Foxmail-eternal__blue%40foxmail.com-7DF9FF?style=for-the-badge&logo=maildotru&logoColor=7DF9FF&labelColor=0B1026" alt="Email eternal_blue@foxmail.com" /></a>
   <a href="mailto:m04y08x20@gmail.com"><img src="https://img.shields.io/badge/Gmail-m04y08x20%40gmail.com-FF4FD8?style=for-the-badge&logo=gmail&logoColor=FF4FD8&labelColor=0B1026" alt="Email m04y08x20@gmail.com" /></a>
-  <img src="https://komarev.com/ghpvc/?username=EternalmBlue&label=PROFILE%20VIEWS&style=for-the-badge&color=7DF9FF&labelColor=0B1026" alt="Profile views" />
 </p>
 
 <h3 align="center">SIGNAL</h3>
