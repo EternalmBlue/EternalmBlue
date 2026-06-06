@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/signal-strip.svg" alt="Animated signal strip for EternalBlue" width="100%" />
+  <img src="./assets/interface-signal.svg" alt="Animated signal strip for EternalBlue" width="100%" />
 </p>
 
 <p align="center">
