@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EternalmBlue&custom_title=EternalBlue%20Activity%20Graph&bg_color=0D1117&color=D7BFFF&line=7DF9FF&point=FF4FD8&area=true&area_color=7DF9FF&hide_border=true" alt="EternalBlue GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternalmBlue&theme=tokyonight" alt="EternalBlue GitHub contributions over the last year" width="100%" />
 </p>
 
 <h3 align="center">METRICS DASHBOARD</h3>
